@@ -1,0 +1,9 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+authors = ["Tdead1 <32958884+Tdead1@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+kiss3d = "0.32"
+rodio = "0.17.1"
